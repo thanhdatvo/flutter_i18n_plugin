@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter_i18n_plugin/constant.dart' show languages;
-//import 'package:flutter_i18n_plugin/localizations.dart'
-//    show MyLocalizations, MyLocalizationsDelegate;
 import 'package:flutter_i18n_plugin/generated/i18n.dart';
 
 void main() async {
