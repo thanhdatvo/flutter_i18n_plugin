@@ -1,8 +1,3 @@
 # flutter_i18n_plugin
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+This flutter project using Android Studio plugin: https://plugins.jetbrains.com/plugin/10128-flutter-i18n
